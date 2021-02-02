@@ -211,4 +211,4 @@ if __name__ == "__main__":
     events()
 
 # A bot key, mine is hidden for privacy
-bot.run('Your Bot Key')
+bot.run('Your Bot Tokken')
